@@ -8,13 +8,17 @@ devtools::install_github("https://github.com/TingtHou/Tetris.git")
 ```
 ## Usage
 ```r
-launchGame()
+
 ```
-Use "A"/"D" to move tetriminos to left/right
+Use "左"/"右" to move tetriminos to left/right
 
 Use "S" to move down tetriminos
 
+Use "Space" to move down tetriminos quickly
+
 Use "W" rotate tetriminos
+
+Use "D" rotate tetriminos
 
 ## Limitation
 The figure will flash when the game runs a long time.
